@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,regular,300,400,500);
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+$fontFamily:Rubik,
+sans-serif;
+$fontSize:18px;
+$blue-100:hsl(195, 74%, 62%);
+$blue-200:hsl(235, 46%, 20%);
+$blue-300:hsl(226, 43%, 10%);
+$violet-100:hsl(236, 100%, 87%);
+$violet-200:hsl(235, 45%, 61%);
+$violet-300:hsl(246, 80%, 60%);
+$violet-400:hsl(264, 64%, 52%);
+$red-100:hsl(15, 100%, 70%);
+$red-200:hsl(348, 100%, 68%);
+$orange-100:hsl(43, 84%, 65%);
+$green-100:hsl(145, 58%, 55%);
+body {}
